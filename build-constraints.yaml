@@ -2603,6 +2603,8 @@ packages:
         - array-memoize
         # - codo-notation # haskell-src-exts via haskell-src-meta
         - language-fortran
+        - type-level-sets
+        - effect-monad
 
     "Philipp Schuster <phischu3000@gmail.com> @phischu":
         []
